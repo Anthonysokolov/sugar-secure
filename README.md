@@ -1,10 +1,11 @@
-# Sugar Secure 
+# Sugar Secure
 
 Sugar Secure is a decentralized application running on the Blockstack blockchain
-designed to securely store glucose data for diabetics
+designed to securely store glucose data for diabetics <br>
 Users can upload their blood sugar readings and have them securely stored on Gaia,
-Blockstack's decentralized storage system
-Created at Lehman Hacks 2019 - Winner for best use of Blockstack
+Blockstack's decentralized storage system <br>
+Created at Lehman Hacks 2019 - Winner for best use of Blockstack <br>
+Developed with the aid of Blockstack's Animal Kingdom sample repo
 
 ## Available Scripts
 
